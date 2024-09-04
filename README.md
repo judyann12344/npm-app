@@ -1,2 +1,1 @@
-# npm-app
-npm activity
+System Integration & Architecture: GIT and NPM Activity
